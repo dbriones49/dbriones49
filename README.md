@@ -1,4 +1,4 @@
-<h1>Hello, My name is Dan! <br/><a href="https://github.com/dannybrionesjr">Linkedin</a>, <ahref="https://www.linkedin.com/in/dannybrionesjr/"></h1>
+<h1>Hello, My name is Dan! <br/><a href="https://github.com/dannybrionesjr">Linkedin</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

@@ -1,4 +1,4 @@
-<h1>Hello, My name is Dan! Cloud and Cybersecurity enthusiast!, </h1>
+<h1>Hello, My name is Dan! Cloud and Cybersecurity Enthusiast!, </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 

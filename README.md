@@ -11,7 +11,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 - <b>AWS Cloud Projects</b>
 
-  - [Creating a live SOC/Honenet](https://github.com/dbriones49/Azure-SOC/)
+  - [Creating a live SOC/Honenet](https://github.com/dbriones49/Cloud-Projects)
 
 
 

@@ -12,7 +12,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 - <b>AWS Cloud Projects</b>
 
-  - [Cronstucting a Cloud Architecure of a Database Migration](https://github.com/dbriones49/Cloud-Projects)
+  - [Constucting a Cloud Architecure of a Database Migration](https://github.com/dbriones49/Cloud-Projects)
 
 
 

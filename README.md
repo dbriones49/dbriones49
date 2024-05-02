@@ -6,6 +6,7 @@
   - [Creating a live SOC/Honenet](https://github.com/dbriones49/Azure-SOC/)
   - [Incident Response](https://github.com/dbriones49/Incident-Response/)
   - [NMAP](https://github.com/dbriones49/NMAP/)
+  - [Wireshark](https://github.com/dbriones49/NMAP/)
 
   
 

@@ -13,7 +13,7 @@
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 - <b>AWS Cloud Projects</b>
 
-  - [Constucting a Cloud Architecture of a Database Migration](https://github.com/dbriones49/Cloud-Projects)
+  - [Database Migration](https://github.com/dbriones49/Cloud-Projects)
 
   - [Three Tiered Architecture- E Commerce Website](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture)
 

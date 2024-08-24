@@ -20,7 +20,9 @@
 <h2>👨‍💻 Networking Projects(in progress):</h2>
   - <b>Windows Server 2019</b>
 
-  - [Windows Server 2019](https://github.com/dbriones49//Windows Server 2019/)
+- [Database Migration](https://github.com/dbriones49/Cloud-Projects)
+
+  - [Three Tiered Architecture- E Commerce Website](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture)
 
 
 

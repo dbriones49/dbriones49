@@ -18,7 +18,7 @@
   - [Three Tiered Architecture- E Commerce Website](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture)
 
 <h2>👨‍💻 Networking Projects(in progress):</h2>
-- <b>AWS Cloud Projects</b>
+- <b>Azure Cloud Projects</b>
 
 
 

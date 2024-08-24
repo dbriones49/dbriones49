@@ -20,7 +20,7 @@
 <h2>👨‍💻 Networking Projects(in progress):</h2>
   - <b>Windows Server 2019</b>
 
-- [Database Migration](https://github.com/dbriones49/Windows-Server-2019)
+- [Windows Server 2019](https://github.com/dbriones49/Windows-Server-2019)
 
 
 

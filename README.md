@@ -1,4 +1,4 @@
-<h1>Hello, My name is Dan! Passionate about information and technology. I am dedicated to learning and growing in the ever-evolving field of technology. Excited to explore the intersection of security and cloud technologies, I am eager to contribute to the innovative solutions that shape the future of IT. </h1>
+<h1>Hello, My name is Dan! Welcome to my portfolio! I am passionate about information technology and dedicated to continuously expanding my skills and knowledge in this ever-evolving field. Through innovative projects and a commitment to lifelong learning, I strive to make a positive impact to businesses, and in the world of IT. </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 

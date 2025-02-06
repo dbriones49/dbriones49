@@ -22,7 +22,7 @@
 
 - [Windows Server 2019](https://github.com/dbriones49/Windows-Server-2019)
 
-- <b>Networking Set-Up</b>
+  - <b>Networking Set-Up</b>
 
 
 

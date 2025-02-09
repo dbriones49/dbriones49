@@ -17,16 +17,16 @@
 
   - [Three Tiered Architecture- E Commerce Website](https://github.com/dbriones49/Cloud--Three-Tiered-Architecture)
 
-<h2>👨‍💻 Networking Projects(in progress):</h2>
-  - <b>Windows Server 2019</b>
+<h2>👨‍💻 Networking Projects:</h2>
+ 
 
 - [Windows Server 2019](https://github.com/dbriones49/Windows-Server-2019)
 
-  - <b>Networking Set-Up</b>
+  
 
 - [Networking Set-Up](https://github.com/dbriones49/Networking-Set-Up)
 
- - <b>VLAN-Configuration</b>
+
 
  - [VLAN-Configuration](https://github.com/dbriones49/VLAN-Configuration)
 

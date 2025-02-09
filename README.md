@@ -26,6 +26,10 @@
 
 - [Networking Set-Up](https://github.com/dbriones49/Networking-Set-Up)
 
+ - <b>VLAN-Configuration</b>
+
+ - [VLAN-Configuration](https://github.com/dbriones49/VLAN-Configuration)
+
 
 <h2> 🤳 Connect with me:</h2>
 
